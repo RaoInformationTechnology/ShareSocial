@@ -1,0 +1,85 @@
+
+<!DOCTYPE HTML>
+<html 
+    lang="en"
+    data-avail-langs="en en-gb fr es de it ja"
+    data-theme="haiku"
+    data-device="touch"
+    data-haiku-submit="Haiku!"
+    data-text-delete="Delete"
+    data-timeline-can-be-posted="1"
+    data-timeline-pager="timed"
+    data-timeline-order="desc"
+    
+     data-entry-form-guest-message="&lt;p class=&quot;notice&quot;&gt;
+    &lt;img src=&quot;http://www.hatena.ne.jp/statics/css/hatena/error-bg-small.gif&quot; class=&quot;icon&quot; alt=&quot;&quot; width=16 height=16&gt;To write comments please &lt;a href=&quot;https://www.hatena.ne.jp/login?location=http%3A%2F%2Fh.hatena.ne.jp%2Ftouch%2Ftarget%3Fword%3DDownload%2520game%2520super%2520mario%2520jar%2520128x160&quot;&gt;Login&lt;/a&gt; or proceed to &lt;a href=&quot;https://www.hatena.ne.jp/touch/register?location=http%3A%2F%2Fh.hatena.ne.jp%2Ftouch%2Ftarget%3Fword%3DDownload%2520game%2520super%2520mario%2520jar%2520128x160&amp;amp;via=500006&quot;&gt;Sign Up&lt;/a&gt;.
+
+            &lt;img src=&quot;http://d.hatena.ne.jp/images/help-popup.gif&quot; alt width=15 height=15&gt;&lt;a href=&quot;/touch/help#section1&quot;&gt;Beginner's Guide&lt;/a&gt;"
+    
+    data-query-suffix="20170628"
+    class="
+      
+      
+      
+    "
+>
+  <meta charset=utf-8><meta name="verify-v1" content="dMI6HLQAvGFS/A1q/gvLdBpOa37cDdjfrBLWc9c0b8Q=" />
+    <meta name="y_key" content="de2838c85ce7c967" />
+    <meta name="msvalidate.01" content="F6EDF0C9EC4E4802800206237A243CDD" />
+    <meta name="y_key" content="10aaf6b5348cf3ac" /><link rel=stylesheet href="http://cdn.www.st-hatena.com/css/emoji.css?20170628">
+  <link rel=stylesheet href="http://cdn.www.st-hatena.com/css/touch/hatena-touch.css?20170628"><meta content="width=320, minimum-scale=1.0" name="viewport" /><link rel=stylesheet href="http://n.hatena.ne.jp/css/common.css?20170628">
+  <link rel="stylesheet" type="text/css" href="http://h.hatena.ne.jp/css/hatena-haiku-touch.css?20170628"><link rel="shortcut icon" href="http://h.hatena.ne.jp/images/favicon.ico">
+  <link rel="apple-touch-icon" href="http://h.hatena.ne.jp/images/apple-touch-icon.png">
+  <title>{keyword} </title>
+  <meta name="description" content="{keyword}">
+  <meta name="Keywords" content="{keyword}">
+  <link rel="alternate" media="handheld" type="text/html" href="http://h.hatena.ne.jp/mobile/target?word=Download%20game%20super%20mario%20jar%20128x160">
+  <link rel="alternate" media="screen" type="text/html" href="http://h.hatena.ne.jp/target?word=Download%20game%20super%20mario%20jar%20128x160"><link rel="search" type="application/opensearchdescription+xml"
+      title="Hatena Haiku Keywords"
+      href="http://h.hatena.ne.jp/html/search-keywords.en.osd">
+
+<body id="keyword">
+ 
+      </span> <img src="http://h.hatena.ne.jp/images/back_en.png" width="48" height="30" id="header-button-top" alt="Back"> 
+</header>
+<div id="main">
+  <div class="stream">
+    <div class="streamheader"><ul id="tab-menu"><li></li>
+      <li>
+      </ul></div>
+  </div>
+</div><div id="rightbar"></div><nav class="autopager-unsafe">
+      <h2 class=title>{keyword}</h2>
+
+    
+
+      
+      <!-- h_sp_menu_bottom -->
+      <div id='div-gpt-ad-1407916161566-0' style='width:300px; height:250px; margin: 0 auto;'>
+         
+      </div>
+    </nav>
+  </div><!-- container -->
+  {manytext_bing}
+
+<div id="touch-footer-ad">
+  
+</div>
+<div id="touch-footer-ad-placeholder"></div>
+
+<span id=global-indicator></span>
+ 
+<div class=tl-entry-open-style data-style="
+    %% > table {
+      /* background-color:#FFF2F2; */
+    }
+  "></div>
+
+  <div class=tl-template-set hidden style="display:none"><span class=tl-template-expand-button data-content='
+      <a href="" class=tl-expand-button>Expand</a>
+      <span class="tl-indicator tl-indicator-expand tl-hidden">Loading…</span>
+    '></span><span class=tl-template-pager-indicator data-content='
+      <span class="tl-indicator tl-indicator-prev tl-indicator-next 
+                   tl-hidden">Loading…</span>
+    '></span>
+</div>

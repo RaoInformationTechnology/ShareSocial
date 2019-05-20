@@ -1,0 +1,31 @@
+
+    
+
+<!DOCTYPE html>
+<html lang="ru" class="">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>{keyword}</title> 
+        <meta name="keywords" content="{keyword}" /><meta name="description" content="{keyword}" /><link rel="canonical" href="http://gallery.mobile9.com/c/128-160-mobile-java-games/1/"><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,600" /><link rel="stylesheet" type="text/css" href="http://cdn.700tb.com/cbn.php?type=css&files=touch_v7.css&1419996369" />
+
+  </head>
+                                  <body>
+
+                                                                                                    
+     
+                
+        
+        <div id="header" class="deco-bg"><div class="header container relative"><h1 class="head-title white upper">{keyword}</h1></div><!--end container--></div><!--end header-->
+
+        
+    <div id="content">
+        <div id="page-title" 
+         class="container border-box box-space">
+      <h1 class="page-title bold">{manytext_bing}</h1>
+    </div><!--end content--></div>
+    <div id="footer-section" class="ash-white-bg pt10"><div class="container-potrait grid-space tc-align"></div></div><!--end container-potrait-->                            <div id="footer" class="dark-bg row-space grid-space"><div class="footer container tc-align"><div class="mt10 mb5"> </div><div class="inblock valign-t grid-space mb10"><select class="dark-bg footer-opt white" onchange="window.top.location.href=this.options[this.selectedIndex].value"><option value="http://www.mobile9.com" selected="selected">Коснитесь</option><option value="http://www.mobile9.com/?op=ful&url=http%253A%252F%252Fgallery.mobile9.com%252Fc%252F128-160-mobile-java-games%252F1%252F">Полный сайт</option></select></div><div class="inblock valign-t grid-space mb10"><select class="dark-bg footer-opt white" onchange="window.top.location.href=this.options[this.selectedIndex].value"><option value="http://en.mobile9.com/gallery/c/128-160-mobile-java-games/1/">English</option><option value="http://cn.mobile9.com/gallery/c/128-160-mobile-java-games/1/">中文</option><option value="http://es.mobile9.com/gallery/c/128-160-mobile-java-games/1/">Español</option><option value="http://jp.mobile9.com/gallery/c/128-160-mobile-java-games/1/">日本語</option><option value="http://vi.mobile9.com/gallery/c/128-160-mobile-java-games/1/">Tiếng Việt</option><option value="http://ru.mobile9.com/gallery/c/128-160-mobile-java-games/1/" selected="selected">Русский</option><option value="http://fr.mobile9.com/gallery/c/128-160-mobile-java-games/1/">Français</option><option value="http://id.mobile9.com/gallery/c/128-160-mobile-java-games/1/">B.Indonesia</option><option value="http://ms.mobile9.com/gallery/c/128-160-mobile-java-games/1/">Bahasa Melayu</option><option value="http://tr.mobile9.com/gallery/c/128-160-mobile-java-games/1/">Türk</option><option value="http://ar.mobile9.com/gallery/c/128-160-mobile-java-games/1/">العربية</option></select></div><p class="grey grid-space mt5 mb10"> </div><!--end container--></div><!--end footer-->
+     
+
+  </body>
+</html>

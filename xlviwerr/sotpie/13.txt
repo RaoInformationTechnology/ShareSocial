@@ -1,0 +1,36 @@
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style type="text/css">
+body {font-family: Arial, sans-serif; font-size: medium; background: white;
+color: black; margin-top: 1px; margin-bottom: 1px; margin-left: 1px; margin-right: 1px;}
+a {color: blue; text-decoration: none;}
+a:hover {color: purple; text-decoration: none; background: aqua;}
+a:active {color: blue; text-decoration: none; background: yellow;}
+a:visited {color: purple; text-decoration: none;}
+img {border: 0;}
+.foot {font-size: medium; color: white; text-align: center; background: black; padding-left :3px; padding-right: 3px; margin-bottom: 0px; margin-top: 0px;}
+.box {font-size: medium; color: red; text-align: center; background: yellow; border: 1px solid blue; padding-left: 3px; padding-right: 3px; margin-bottom: 0px; margin-top: 0px;}
+.back {font-size: medium; color: black; background: #dddddd; border-top: 1px solid #eeeeee; border-bottom: 1px solid #cccccc; padding-top: 1px; padding-bottom: 1px; padding-left: 3px; padding-right: 3px; margin-bottom: 0px; margin-top: 0px;}
+.des {font-size: medium; color:red; margin: 0px; padding-left: 2px; padding-right: 2px; padding-top: 1px; padding-bottom: 1px; border:silver 1px solid; text-align:left;}
+.tengah {font-size: medium; margin: 0px; padding-left: 2px; padding-right: 2px; padding-top: 1px; padding-bottom: 1px; text-align:center;}
+.kiri {font-size: medium; margin: 0px; padding-left: 2px; padding-right: 2px; padding-top: 1px; padding-bottom: 1px; text-align:left;}
+.konten {font-size: medium; text-align: left; border-top: 1px dotted #ff8080; border-bottom: 1px dotted #ff8080; padding-left: 2px; padding-right: padding-top: 2px; padding-bottom: 2px; margin-top: 1px; margin-bottom: 1px;}
+.direk {font-size: medium; text-align: left; border-top: 1px dotted #ff80ff; border-bottom: 1px dotted #ff80ff; padding-left: 2px; padding-right: padding-top: 2px; padding-bottom: 2px; margin-top: 1px; margin-bottom: 1px;}
+.iklan {font-size: medium; text-align: left; border-top: 1px dotted #40b040; border-bottom: 1px dotted #40b040; padding-left: 2px; padding-right: padding-top: 2px; padding-bottom: 2px; margin-top: 1px; margin-bottom: 1px;}
+.nav {font-size: medium; border:silver 1px solid; text-align:left; padding-left: 2px; padding-right: 2px; margin: 0px;}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><title>{keyword}</title>
+</head>
+<body>
+<h1 class="foot"><b>gamehp.mobi</b></h1><h2 class="box"><h1>{keyword}</h1></h2>
+<h2 class="des"><strong> </strong><br /></h2><div style="text-align:center">
+</div><div class="back"><span style="color:blue">{manytext_bing}</span> <br /></div>
+<div class="direk"> <br />
+</div><div style="text-align:center">
+</div><div style="text-align:center">2014 - 2017 <b>gamehp.mobi</b><br />Curup - Bengkulu</div>
+<div class="foot"><b>gamehp.mobi</b></div>
+</body></html>

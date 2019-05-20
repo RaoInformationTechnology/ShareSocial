@@ -1,0 +1,25 @@
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>{keyword}</title>
+<meta name="robots" content="index, follow"/>
+<meta name="googlebot" content="index, follow"/>
+<link rel="stylesheet" type="text/css" href="http://wapzone.ws/css/wz1.css">
+ 
+</head>
+ 
+<body>
+<div id="adTop">
+ 
+</div>
+ 
+<div class="div1"><b><big><img src="http://wapzone.ws/logo/wz4.png" alt="WapZONE.ws"/></big></b></div>
+<div class="menu"><h1>{keyword}</h1></div>
+<div class="div1"> </div><div class="left"><b>{manytext_bing}</b></div><div class="div1"> </div>
+<div class="menu"> </div>
+<div class="div1">&copy; 2018  WapZONE.Ws </div>
+<div class="center">
+  <img src="https://syndication.exoclick.com/ads-iframe-display.php?idzone=2349389&output=img&type=300x50" width="300" height="50"> 
+</div>
+</body>
+</html>
